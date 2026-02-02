@@ -16,3 +16,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Welcome! I'm Yujin Kang. This is my personal website.
+
+Find me on [Google Scholar](https://scholar.google.com/citations?user=nkcBAkcAAAAJ&hl=ko&authuser=1) and [OpenReview](https://openreview.net/profile?id=%7EYujin_Kang1).
