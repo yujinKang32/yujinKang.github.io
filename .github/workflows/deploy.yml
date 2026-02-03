@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - claude/setup-al-folio-template-MlrX8
+      - claude/separate-profile-column-mcpf1
   workflow_dispatch:
 
 permissions:
