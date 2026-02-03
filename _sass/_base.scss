@@ -240,12 +240,28 @@ ul.task-list input[type="checkbox"] {
 
   .more-info {
     margin-bottom: 5px;
-    margin-top: 5px;
-    font-family: monospace;
+    margin-top: 10px;
 
     p {
-      display: inline-block;
+      display: block;
       margin: 0;
+    }
+
+    .profile-name {
+      font-size: 1.25rem;
+      font-weight: 700;
+      margin-bottom: 0.4rem;
+    }
+
+    .profile-detail {
+      font-size: 0.85rem;
+      color: var(--global-text-color);
+      line-height: 1.4;
+    }
+
+    .profile-links {
+      margin-top: 0.6rem;
+      font-size: 0.85rem;
     }
   }
 }

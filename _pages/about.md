@@ -9,10 +9,11 @@ profile:
   image: profile.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>zinzin32 (at) cau.ac.kr</p>
-    <p>Ph.D. Candidate, Chung-Ang University</p>
-    <br>
-    <p>
+    <p class="profile-name">Yujin Kang</p>
+    <p class="profile-detail">zinzin32 (at) cau.ac.kr</p>
+    <p class="profile-detail">Ph.D. Candidate,</p>
+    <p class="profile-detail">Chung-Ang University</p>
+    <p class="profile-links">
       <a href="https://scholar.google.com/citations?user=nkcBAkcAAAAJ" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar</a><br>
       <a href="https://openreview.net/profile?id=%7EYujin_Kang1" target="_blank"><i class="ai ai-openreview"></i> OpenReview</a><br>
       <a href="https://github.com/yujinKang32" target="_blank"><i class="fa-brands fa-github"></i> Github</a>
