@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: left
-  image: profile.png
+  image: profile_.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p class="profile-name">Yujin Kang</p>
