@@ -207,12 +207,12 @@ ul.task-list input[type="checkbox"] {
 
 .profile-column {
   width: 100%;
-  max-width: 120px;
+  max-width: 200px;
 
   @media (min-width: 576px) {
-    flex: 0 0 120px !important;
-    min-width: 120px;
-    max-width: 120px;
+    flex: 0 0 200px !important;
+    min-width: 200px;
+    max-width: 200px;
   }
 
   figure,
