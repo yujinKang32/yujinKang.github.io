@@ -43,6 +43,10 @@ layout: default
       <div class="content-column">
         <div class="clearfix">{{ content }}</div>
 
+        {% if page.news and site.announcements.enabled %}
+          <hr style="border: none; border-top: 1px solid #ddd; margin: 1.5rem 0;">
+        {% endif %}
+
         <!-- News -->
         {% if page.news and site.announcements.enabled %}
           <h2>
