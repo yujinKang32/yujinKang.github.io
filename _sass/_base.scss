@@ -771,6 +771,10 @@ footer.sticky-bottom {
       }
 
       .author {
+        strong {
+          font-weight: bold;
+        }
+
         a {
           border-bottom: 1px dashed var(--global-theme-color);
 
