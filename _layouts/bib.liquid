@@ -150,6 +150,11 @@
     <div class="periodical">
       {{ periodical | strip }}
     </div>
+    {% if entry.presentation %}
+    <div class="periodical">
+      <strong style="color: var(--global-theme-color);">{{ entry.presentation }}</strong>
+    </div>
+    {% endif %}
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
