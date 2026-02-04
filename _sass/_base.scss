@@ -196,12 +196,13 @@ ul.task-list input[type="checkbox"] {
   display: flex !important;
   flex-direction: column;
   gap: 2rem;
-  align-items: flex-start;
+  align-items: center;
 
   @media (min-width: 576px) {
     flex-direction: row !important;
     flex-wrap: nowrap !important;
     gap: 2rem;
+    align-items: flex-start;
   }
 }
 
