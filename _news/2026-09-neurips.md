@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at **NeurIPS 2025**: "What Do SAE Features Encode? Evidence from Human Neural Activity"
+Paper accepted at **NeurIPS 2026**: "What Do SAE Features Encode? Evidence from Human Neural Activity"
