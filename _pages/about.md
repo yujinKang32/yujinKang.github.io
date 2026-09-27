@@ -16,7 +16,8 @@ profile:
     <p class="profile-links">
       <a href="https://scholar.google.com/citations?user=nkcBAkcAAAAJ" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar</a><br>
       <a href="https://openreview.net/profile?id=%7EYujin_Kang1" target="_blank"><i class="ai ai-openreview"></i> OpenReview</a><br>
-      <a href="https://github.com/yujinKang32" target="_blank"><i class="fa-brands fa-github"></i> Github</a>
+      <a href="https://github.com/yujinKang32" target="_blank"><i class="fa-brands fa-github"></i> Github</a><br>
+      <a href="assets/pdf/Yujin_Kang_CV.pdf" target="_blank"><i class="ai ai-cv"></i> CV</a>
     </p>
 
 news: true # includes a list of news items
